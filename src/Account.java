@@ -1,8 +1,5 @@
-
-
 public class Account {
     private double balance;
-//
     public Account(String accountHolder,long AccountNumber) {
     }
 

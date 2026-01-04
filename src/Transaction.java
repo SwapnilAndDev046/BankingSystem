@@ -1,5 +1,3 @@
-//
-
 public class Transaction {
     private double balanceAfterTransaction;
     private final long accountNumber;
